@@ -1,3 +1,5 @@
+//compile with gcc main.c -o   thread -lpthread
+//dont forget -lpthread
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
